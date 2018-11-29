@@ -1,2 +1,2 @@
 # MisalignedCP
-Codes for Misaligned Change Point
+Codes for Misaligned Change-Points
